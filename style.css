@@ -49,13 +49,13 @@ h2{
 }
 .dream-area{
     width:100%;
-    margin-top: 5%;
+    margin-top: 4%;
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
 }
 .experience_area{
-    margin-top:10%;
+    margin-top:6%;
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
@@ -78,16 +78,17 @@ h2{
 
 }
 #full_stack_experience{
-    border-left: 7px solid;
+    border-left: 8px solid;
     border-image: linear-gradient(180deg, lightsalmon, tomato);
     border-image-slice: 1;
    
 }
 #baby_web_experience{
-    border-left: 7px solid;
+    border-left: 8px solid;
     border-image: linear-gradient(180deg,blue,cyan);
     border-image-slice: 1;
 }
 footer p{
     text-align: center;
+    
 }
